@@ -11,7 +11,7 @@ Google Maps lead scraper for contractor niches. Netlify (site + functions) and S
 ## Netlify environment variables
 | Name | Value |
 |---|---|
-| `SUPABASE_URL` | https://asdmsrrgfmmkymltbiwu.supabase.co |
+| `SUPABASE_URL` | your Supabase project URL |
 | `SUPABASE_SECRET_KEY` | Supabase → Project Settings → API Keys → secret key (or legacy service_role) |
 | `SERPER_API_KEY` | serper.dev dashboard |
 | `APP_PASSWORD` | any password you choose for logging in |
